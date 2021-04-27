@@ -1,0 +1,28 @@
+{
+  "defaultSearch": [
+    {
+      "baseUrl": "https://www.indeed.com/jobs?"
+    },
+    {
+      "jobTitle": "q=PowerBI"
+    },
+    {
+      "location": "l=Orlando%2C+FL&radius=100"
+    },
+    {
+      "salary": null
+    },
+    {
+      "postsSince": "fromage=1"
+    },
+    {
+      "sort": "sort=date"
+    },
+    {
+      "viewJobUrl": "https://www.indeed.com/viewjob?jk="
+    },
+    {
+      "searchTitle": "Power BI"
+    }
+  ]
+}
